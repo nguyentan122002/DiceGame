@@ -1,0 +1,6 @@
+@TaiXiu_HostAddress = http://localhost:5262
+
+GET {{TaiXiu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
